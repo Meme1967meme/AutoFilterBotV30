@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : [Naughty PROFESSOR](
+➥ Creator : [Meme1967meme](
 https://youtube.com/c/NaughtyPROFESSOR)
 
 ➥ Language : Python3
